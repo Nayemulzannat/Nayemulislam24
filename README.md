@@ -1,7 +1,7 @@
 ## Hi there 👋, Hi there I am MD.Zannatun Nayem
-####  ✔I am Web Developer
-####🖊️ Love to write code
-####🎤 Like to share my knowledge
+####    ✔I am Web Developer
+####  🖊️ Love to write code
+####  🎤 Like to share my knowledge
 I’m a backend Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.  I pride myself on doing quality work and maintaining excellent communication.  
 
 Skills:  /HTML / CSS/PHP/ MYSQL 
