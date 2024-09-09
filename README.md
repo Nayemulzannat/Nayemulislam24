@@ -7,7 +7,7 @@ I’m a backend Web developer who is passionate about making error-free websites
 Skills:/HTML / CSS/ PHP/ JavaScript/ MYSQL 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning PHP .
+- 🌱 I’m currently learning PHP ..
 - 💬 Ask me about github .
 
 
